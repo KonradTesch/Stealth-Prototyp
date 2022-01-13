@@ -1,2 +1,2 @@
-# Stelth-Prtotyp
+# Stealth-Prototyp
 Diesen Prototypen habe ich in der vorlesungsfreien Zeit zwischen dem vierten und fünften Semester entwickelt. Sowohl der Code, als auch der Rest, wurde komplett von mir allein entwickelt (teilweise mit Hilfe von Online-Tutorials). Zu diesem Zeitpunkt habe ich bereits an einem Größeren Projekt (das Serious Game „Der lange Weg“) im Rahmen des Studiums als Programmierer gearbeitet. Der Zweck des Prototypen war für mich selbst, um meine Fähigkeiten zu testen und weiterzuentwickeln.
